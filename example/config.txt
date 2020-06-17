@@ -1,0 +1,2 @@
+Prefix plugins/PrefixSuffix/example
+Plugin PrefixSuffix inputfile HMP_MOCK.v35.fasta outputfile output
